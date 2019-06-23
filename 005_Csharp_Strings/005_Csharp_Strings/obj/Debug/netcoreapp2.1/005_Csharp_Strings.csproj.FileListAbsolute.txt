@@ -1,0 +1,11 @@
+C:\Users\Nick\source\repos\c_sharp\005_Csharp_Strings\005_Csharp_Strings\005_Csharp_Strings\bin\Debug\netcoreapp2.1\005_Csharp_Strings.deps.json
+C:\Users\Nick\source\repos\c_sharp\005_Csharp_Strings\005_Csharp_Strings\005_Csharp_Strings\bin\Debug\netcoreapp2.1\005_Csharp_Strings.runtimeconfig.json
+C:\Users\Nick\source\repos\c_sharp\005_Csharp_Strings\005_Csharp_Strings\005_Csharp_Strings\bin\Debug\netcoreapp2.1\005_Csharp_Strings.runtimeconfig.dev.json
+C:\Users\Nick\source\repos\c_sharp\005_Csharp_Strings\005_Csharp_Strings\005_Csharp_Strings\bin\Debug\netcoreapp2.1\005_Csharp_Strings.dll
+C:\Users\Nick\source\repos\c_sharp\005_Csharp_Strings\005_Csharp_Strings\005_Csharp_Strings\bin\Debug\netcoreapp2.1\005_Csharp_Strings.pdb
+C:\Users\Nick\source\repos\c_sharp\005_Csharp_Strings\005_Csharp_Strings\005_Csharp_Strings\obj\Debug\netcoreapp2.1\005_Csharp_Strings.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\c_sharp\005_Csharp_Strings\005_Csharp_Strings\005_Csharp_Strings\obj\Debug\netcoreapp2.1\005_Csharp_Strings.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\c_sharp\005_Csharp_Strings\005_Csharp_Strings\005_Csharp_Strings\obj\Debug\netcoreapp2.1\005_Csharp_Strings.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\c_sharp\005_Csharp_Strings\005_Csharp_Strings\005_Csharp_Strings\obj\Debug\netcoreapp2.1\005_Csharp_Strings.AssemblyInfo.cs
+C:\Users\Nick\source\repos\c_sharp\005_Csharp_Strings\005_Csharp_Strings\005_Csharp_Strings\obj\Debug\netcoreapp2.1\005_Csharp_Strings.dll
+C:\Users\Nick\source\repos\c_sharp\005_Csharp_Strings\005_Csharp_Strings\005_Csharp_Strings\obj\Debug\netcoreapp2.1\005_Csharp_Strings.pdb
